@@ -1,0 +1,48 @@
+        body{
+            background-color:  #008080;
+            font-family: 'Monda', sans-serif;
+        }
+        div#container{
+            padding:10px;
+            text-align: center;
+            width:50%;
+            margin:2em auto;
+            background-color: red;
+            border-radius: 5px;
+            background-color: #B0E0E6;
+        }
+       label,input{
+             font-family: 'Rokkitt', serif;
+             font-size: 1.5em;
+             margin:10px ;
+             display: block;
+             text-align: left;
+
+        }
+        input {
+            background: none;
+            background-color: darkgray;
+            border: none;
+            border-radius: 10px;
+            color:  #2F4F4F;
+            outline: none;
+        }
+      
+        button{
+            background-color: #4CAF50; 
+            border: none;
+            color: white;
+            padding: 20px 32px;
+            text-align: center;
+            text-decoration: none;
+            border-radius: 100px;
+            margin-top: 20px;
+            font-size: 16px;
+            outline: none;  
+        }
+        button:active{
+            text-shadow: 0px 0px 10px black;
+            color:tan;
+            font-size:16px;
+            text-decoration: none;
+        }
